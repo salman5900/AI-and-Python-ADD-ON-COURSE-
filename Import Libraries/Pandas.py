@@ -26,7 +26,7 @@ import pandas as pd
 # print(df2.head())
 
 # loading the file 
-df = pd.read_csv("Ai/import Libraries/output2.csv")
+df = pd.read_csv("import Libraries/output2.csv")
 print(df.head()) # display first 5 rows
 print("########################################")
 print(df.shape) # number of rows and columns
