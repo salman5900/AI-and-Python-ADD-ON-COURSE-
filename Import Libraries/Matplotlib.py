@@ -19,3 +19,4 @@ plt.title("Scores Bar Chart")
 plt.xlabel("Names")
 plt.ylabel("Scores")
 plt.show()
+
