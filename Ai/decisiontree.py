@@ -15,6 +15,7 @@ x = [
 y = ['Buy', 'Dont Buy', 'Buy', 'Buy', 'Dont Buy', 'Dont Buy']
 
 
+
 # Train the model
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(x, y)
