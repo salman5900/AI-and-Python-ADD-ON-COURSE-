@@ -49,7 +49,7 @@ history = model.fit(
 )
 
 # 7) Load and preprocess your own image for prediction
-img_path = "cat.jpg"
+img_path = "CNN/cat.jpg"
 
 # Load and resize to 32x32 (same as CIFAR-10 images)
 img = image.load_img(img_path, target_size=(32, 32))
